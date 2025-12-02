@@ -12,11 +12,11 @@ Os projetos e exercícios estão organizados hierarquicamente por Período Acad�
 
 Cada pasta de disciplina contém o código-fonte, trabalhos teóricos e um `README.md` específico detalhando os objetivos da matéria e as tecnologias utilizadas.
 
-### 📌 2º Período - [Seu Ano/Semestre]
+### 📌 2º Período - 2025/2
 
 | Pasta | Disciplina | Foco Principal | Status |
 | :--- | :--- | :--- | :--- |
-| **01_Introducao_a_Programacao** | Introdução à Programação | Fundamentos de lógica e Linguagem C | ✅ Completo |
+| **01_Introducao_a_Programacao** | Introdução à Programação | Fundamentos de lógica e Linguagem C | ⏳ Em andamento |
 | **02_Programacao_Python** | Programação em Python - Paradigmas | Orientação a Objetos e estruturas de dados em Python | ⏳ Em Andamento |
 | **03_Desenvolvimento_Web** | Desenvolvimento Web | HTML, CSS, e Fundamentos de JavaScript | ⏳ Em Andamento |
 | **04_Requisitos_de_Sistema** | Requisitos de Sistema | Análise e especificação de requisitos de software (documentação) | ⏳ Em Andamento |
