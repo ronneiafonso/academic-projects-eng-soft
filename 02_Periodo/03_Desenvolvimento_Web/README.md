@@ -1,8 +1,9 @@
 # 📚 Disciplina: Desenvolvimento Web
 
-Este diretório contém os exercícios e projetos da disciplina de Desenvolvimento Web, com foco em fundamentos de HTML5, CSS3 e JavaScript.
+Este diretório contém os exercícios e projetos da disciplina de Desenvolvimento Web, com foco em fundamentos de HTML5, CSS3, PHP e JavaScript.
 
 ## Tecnologias Utilizadas
 * HTML5
 * CSS3
+* PHP
 * JavaScript (Introdução)
