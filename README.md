@@ -26,9 +26,7 @@ Cada pasta de disciplina contém o código-fonte, trabalhos teóricos e um `READ
 
 ## 🛠️ Tecnologias Principais (Fase Inicial)
 
-* **Linguagens:** C, Python, HTML5, CSS3.
+* **Linguagens:** C, Python, HTML5, CSS3, Javascript e PHP.
 * **Versionamento:** Git & GitHub.
 * **Paradigmas:** Programação Imperativa e Orientação a Objetos.
 
-## 🔗 Próximos Passos
-Planejo incluir um projeto integrador que aplique meu conhecimento em Química e EdTech, utilizando os conceitos aprendidos no 2º período.
